@@ -1,0 +1,4 @@
+In this project I had explored the staging data table that I cleaned in data cleaning process. Initially I take the dataset in kaggle website then I read the data set and continued cleaning.
+The cleaned dataset contains the actual data about the companies laid off around the world since 2020.
+I had analyzed the data by month, stage,year, company, industry .
+The main objective of the project is that I analyze the conclusion of top 5 companies that laid off their employees between the year 2020 to 2023.
